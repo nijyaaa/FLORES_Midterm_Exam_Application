@@ -7,7 +7,7 @@
         <title>Document</title>
     </head>
     <body>
-        <h1>TEST</h1>
+        <h1>List of Restuarants</h1>
     </body>
     </html>
 </div>
